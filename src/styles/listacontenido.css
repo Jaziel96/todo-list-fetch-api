@@ -1,0 +1,15 @@
+.list-container {
+    background-color: #e8e8e8;
+    width: 500px;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* COUNTER */
+.counter-container {
+    
+    align-self: center;
+}

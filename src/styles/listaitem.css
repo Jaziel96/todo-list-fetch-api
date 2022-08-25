@@ -1,0 +1,27 @@
+.item-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
+
+
+.item-text {
+    margin: 0;
+    padding: 0;
+    color: rgb(6, 6, 6);
+}
+
+
+/* DELETE ICON */
+.close-icon {
+    color: rgb(4, 4, 4);
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.close-icon:hover {
+    color: #b00020;
+}
