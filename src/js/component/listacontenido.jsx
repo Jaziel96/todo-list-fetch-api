@@ -73,7 +73,7 @@ function ListContainer() {
                     )
                 }
             </div>
-            <blockquote className="tiktok-embed" cite="https://www.tiktok.com/@beyonce/video/7133705533990636846" data-video-id="7133705533990636846" data-embed-from="oembed" style={{"max-width": "605px"}} > <section> <a target="_blank" title="@beyonce" href="https://www.tiktok.com/@beyonce?refer=embed">@beyonce</a> <p></p> <a target="_blank" title="♬ PURE/HONEY - Beyoncé" href="https://www.tiktok.com/music/PUREHONEY-7125598549672216577?refer=embed">♬ PURE/HONEY - Beyoncé</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+            
             <ListCounter listLength={itemsLength} />
         </div>
     );
